@@ -28,6 +28,9 @@ Based and dependent on the popular [Material Icon Theme](https://github.com/PKie
 
 ```shell
 npm run build
+
+# Replace "gitHubToken" with your GitHub token
+GITHUB_TOKEN="gitHubToken" npm run build
 ```
 
 ### Development
