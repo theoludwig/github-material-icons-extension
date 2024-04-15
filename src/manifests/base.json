@@ -1,8 +1,8 @@
 {
-  "name": "Material Icons for GitHub",
+  "name": "Material Icons for GitHub (fork for custom use case)",
   "version": "1.8.10",
   "description": "Replace the file/folder icons on the GitHub file browser with icons representing the file's type and which tool it is used by.",
-  "homepage_url": "https://github.com/Claudiohbsantos/github-material-icons-extension",
+  "homepage_url": "https://github.com/theoludwig/github-material-icons-extension/tree/custom",
   "icons": {
     "16": "icon-16.png",
     "32": "icon-32.png",

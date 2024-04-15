@@ -1,4 +1,6 @@
-<h1 align="center">Material Icons for GitHub</h1>
+<h1 align="center">Material Icons for GitHub (fork for custom use case)</h1>
+
+<https://github.com/theoludwig/github-material-icons-extension/tree/custom>
 
 <div align="center">
 
