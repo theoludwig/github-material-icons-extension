@@ -9,6 +9,7 @@
         "*://dev.azure.com/*",
         "*://*.visualstudio.com/*",
         "*://gitea.com/*",
+        "*://git.theoludwig.fr/*",
         "*://gitlab.com/*",
         "*://gitee.com/*",
         "*://sourceforge.net/*"

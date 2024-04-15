@@ -31,6 +31,7 @@ export const getGitProvider = (href) => {
       return providerConfig.bitbucket;
 
     case /gitea\.com/.test(href):
+    case /git\.theoludwig\.fr/.test(href):
       return providerConfig.gitea;
 
     case /dev\.azure\.com/.test(href):
